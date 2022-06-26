@@ -27,9 +27,6 @@ pymath.mul(a, b)
 
 pymath.div(a, b)
 
-**Print**
-
-pymath.pe()
 
 
 
