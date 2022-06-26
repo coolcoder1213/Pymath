@@ -1,3 +1,7 @@
+from setuptools import setup, find_packages
+import codecs
+import os
+
 VERSION = '0.8.0'
 DESCRIPTION = 'Pymath - Math Made Simple'
 LONG_DESCRIPTION = DESCRIPTION
