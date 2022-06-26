@@ -1,1 +1,46 @@
+VERSION = '0.8.0'
+DESCRIPTION = 'Pymath - Math Made Simple'
+LONG_DESCRIPTION = DESCRIPTION
+
+setup(name="Pymath",
+      version=VERSION,
+      author="coolcoder1213",
+      author_contact="https://github.com/coolcoder1213",
+      description=DESCRIPTION,
+      long_description_content_type="text/markdown",
+      long_description=open('README.md').read(),
+      packages=find_packages(), 
+      keywords=[
+          'Pymath', 'Math', 'AI', 'Python',]
+      
+      url='https://github.com/coolcoder1213/Pymath',
+      classifiers=[
+          "Development Status :: 5 - Production/Stable",
+          "Intended Audience :: Developers",
+          "Programming Language :: Python :: 3",
+          "Operating System :: Unix",
+          "Operating System :: MacOS :: MacOS X",
+          "Operating System :: Microsoft :: Windows",
+      ])
+
+
+def add(a, b)
+e = a + b
+return a + b
+
+def sub(a, b)
+e = a - b
+return a - b
+
+def mul(a, b)
+e = a x b
+return a x b
+
+def div(a, b)
+e = a / b
+return a / b
+
+def pe()
+print(e)
+
 
