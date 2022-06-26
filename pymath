@@ -29,22 +29,17 @@ setup(name="Pymath",
 
 
 def add(a, b):
-e = a + b
 return a + b
 
 def sub(a, b):
-e = a - b
 return a - b
 
 def mul(a, b):
-e = a x b
 return a x b
 
 def div(a, b):
-e = a / b
 return a / b
 
-def pe():
-print(e)
+
 
 
